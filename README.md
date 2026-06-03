@@ -39,6 +39,7 @@
 <br />
 
 <div align="center">
-  <h3>My Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/axlgoze/axlgoze/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <h3>My Contribution Pac-Man</h3>
+  <!-- Tu animación personalizada de Pac-Man comiéndose tus cuadritos de commits -->
+  <img src="https://raw.githubusercontent.com/axlgoze/axlgoze/output/github-contribution-grid-pacman.svg" alt="GitHub Contribution Pacman" />
 </div>
